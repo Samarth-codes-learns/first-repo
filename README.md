@@ -1,3 +1,4 @@
 # first-repo
 this is my first repo
-author - Samarth Goyal
+<br>
+Author - Samarth Goyal
